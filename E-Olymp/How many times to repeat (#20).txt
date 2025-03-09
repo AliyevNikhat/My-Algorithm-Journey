@@ -1,0 +1,32 @@
+using System;
+using System.Linq;
+using System.Collections;
+using System.Collections.Generic;
+
+namespace Problem
+{
+	class Program
+	{
+		static void Main()
+		{
+			int a = int.Parse(Console.ReadLine());
+			int count = 0;
+			while(a != 0)
+			{
+				a -= SumOfDigit(a);
+				count++;
+			}
+			System.Console.WriteLine(count);
+		}
+		static int SumOfDigit(int a)
+		{
+			int sum = 0;
+			while(a > 0)
+			{
+				sum += a%10;
+				a/=10;
+			}	
+			return sum;
+		}
+	}
+}
