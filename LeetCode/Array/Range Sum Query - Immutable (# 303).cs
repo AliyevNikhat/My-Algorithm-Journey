@@ -1,5 +1,5 @@
 public class NumArray {
-    List<int> arr = new List<int>();
+    private readonly List<int> arr = new List<int>();
     public NumArray(int[] nums) {
         foreach(int item in nums)
         {
@@ -8,11 +8,11 @@ public class NumArray {
     }
     
     public int SumRange(int left, int right) {
-      int sum = 0;
-      for(int i = left; i<=right; i++)
-      {
-        sum += arr[i];
-      }  
-      return sum;
+        int Sum = 0;
+        for(int i=left; i <= right; i++)
+        {
+            Sum+=arr[i];
+        }
+        return Sum;
     }
 }
