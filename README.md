@@ -1,9 +1,11 @@
 # 🚀 E-Olymp Solutions by Nihat Aliyev
-Hello! 👋 My name is Nihat Aliyev, and in this repository, I will be sharing my solutions to E-Olymp algorithmic problems. Here, you can find my solutions written in C#. My goal is to develop my algorithmic thinking and solve problems in a more efficient and optimized way. 🔥
+Hello! 👋 My name is AliyevNihat, and in this repository, I will be sharing my solutions to algorithmic problems from platforms like E-Olymp and LeetCode. All solutions are written in C#. My goal is to enhance my algorithmic thinking and solve problems in a more efficient and optimized way.
 
 # 📌 My Goals
 
-✅ Improve my algorithmic skills.✅ Solve problems using different approaches to build a stronger problem-solving mindset.✅ Prepare myself for bigger and more complex projects in the future.
+✅ Improve my algorithmic skills.<br>
+✅ Solve problems using different approaches to build a stronger problem-solving mindset.<br>
+✅ Prepare myself for bigger and more complex projects in the future.
 
 # 📁 Content
 
