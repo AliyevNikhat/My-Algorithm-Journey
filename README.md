@@ -13,7 +13,7 @@ In this repository, I will be adding problems I have solved from (E-Olymp && Lee
 
 # ✉️ Contact
 
-If you find any mistakes in my code or have any suggestions, feel free to email me at nihataliyev.contact@gmail.com. 📬
+If you find any mistakes in my code or have any suggestions, feel free to email me at aliyevnihat.contact@gmail.com. 📬
 
 # ⭐ Your Support Matters!
 
