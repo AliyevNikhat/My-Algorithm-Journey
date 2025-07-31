@@ -39,7 +39,7 @@ My-Algorithm-Journey/
 │   └── ... (Other platforms)
 │
 └── README.md
-
+```
 ---
 
 ## 📝 Contribution Style
