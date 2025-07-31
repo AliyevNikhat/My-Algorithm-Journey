@@ -1,22 +1,69 @@
-# 🚀 E-Olymp Solutions by Nihat Aliyev
-Hello! 👋 My name is AliyevNihat, and in this repository, I will be sharing my solutions to algorithmic problems from platforms like E-Olymp and LeetCode. All solutions are written in C#. My goal is to enhance my algorithmic thinking and solve problems in a more efficient and optimized way.
+# 🚀 Algorithm Solutions by Nihat Aliyev (AliyevNikhat)
 
-# 📌 My Goals
+Hello! 👋 My name is **AliyevNikhat (Nihat Aliyev)** and this repository is dedicated to my journey of solving algorithmic problems from various competitive programming platforms like **E-Olymp**, **LeetCode**, **Codeforces**, **AtCoder**, **HackerRank**, and more.
 
-✅ Improve my algorithmic skills.<br>
-✅ Solve problems using different approaches to build a stronger problem-solving mindset.<br>
-✅ Prepare myself for bigger and more complex projects in the future.
+🧠 My goal is to improve my **problem-solving skills** using multiple programming languages and tackle problems with **different algorithms and approaches**.
 
-# 📁 Content
+---
 
-In this repository, I will be adding problems I have solved from (E-Olymp && LeetCode ... ) . For better understanding, I will be solving each problem using 2 or even 3 different approaches, which will help both me and others grasp the logic more effectively.
+## 🔧 Languages Used
 
-# ✉️ Contact
+- ⚙️ **C#** – My primary language for solving algorithmic problems.
+- ⚙️ **C++** – For performance-intensive problems or when C++ STL (Standard Template Library) is advantageous.
 
-If you find any mistakes in my code or have any suggestions, feel free to email me at aliyevnihat.contact@gmail.com. 📬
+---
 
-# ⭐ Your Support Matters!
+## 🎯 Objectives
 
-If you like this repository and find it useful, don’t forget to 🌟 Star it!
+✅ Strengthen my understanding of **data structures** and **algorithms**.<br>
+✅ Solve each problem using **at least two different approaches** to better understand and compare solutions.<br>
+✅ Prepare for **technical interviews** and **large-scale software projects** by sharpening my skills.<br>
+✅ Help others by providing **clean, readable, and well-commented code**.
 
-Let’s improve together! 💪🔥
+---
+
+## 📁 Repository Structure
+My-Algorithm-Journey/
+│
+├── CSharp/
+│ ├── E-Olymp/
+│ ├── LeetCode/
+│ ├── HackerRank/
+│ └── ... (Other platforms)
+│
+├── CPlusPlus/
+│ ├── Codeforces/
+│ ├── AtCoder/
+│ ├── E-Olymp/
+│ └── ... (Other platforms)
+│
+└── README.md
+
+---
+
+## 📝 Contribution Style
+
+🔹 For each problem:
+- I aim to solve it first with a **naive approach** (basic, straightforward method),
+- Then with an **optimized approach** (faster, more memory-efficient),
+- Sometimes also using **alternative data structures or algorithms**.
+
+---
+
+## ✉️ Contact Me
+
+Have suggestions or found an issue in my code? Feel free to reach out!  
+📧 Email: [aliyevnihat.contact@gmail.com](mailto:aliyevnikhat.info@gmail.com)
+
+---
+
+## ⭐ Support the Journey!
+
+If you find this repository helpful or inspiring, please consider **starring** ⭐ the repo.  
+Let’s **grow together** and become better at solving complex problems. 💪🔥
+
+---
+
+## 🗒️ License
+
+This repository is open-sourced under the [MIT License](LICENSE).
