@@ -23,19 +23,20 @@ Hello! 👋 My name is **AliyevNikhat (Nihat Aliyev)** and this repository is de
 ---
 
 ## 📁 Repository Structure
+```markdown
 My-Algorithm-Journey/
 │
 ├── CSharp/
-│ ├── E-Olymp/
-│ ├── LeetCode/
-│ ├── HackerRank/
-│ └── ... (Other platforms)
+│   ├── E-Olymp/
+│   ├── LeetCode/
+│   ├── HackerRank/
+│   └── ... (Other platforms)
 │
 ├── CPlusPlus/
-│ ├── Codeforces/
-│ ├── AtCoder/
-│ ├── E-Olymp/
-│ └── ... (Other platforms)
+│   ├── Codeforces/
+│   ├── AtCoder/
+│   ├── E-Olymp/
+│   └── ... (Other platforms)
 │
 └── README.md
 
@@ -53,7 +54,7 @@ My-Algorithm-Journey/
 ## ✉️ Contact Me
 
 Have suggestions or found an issue in my code? Feel free to reach out!  
-📧 Email: [aliyevnihat.contact@gmail.com](mailto:aliyevnikhat.info@gmail.com)
+📧 Email: [aliyevnikhat.info@gmail.com](mailto:aliyevnikhat.info@gmail.com)
 
 ---
 
