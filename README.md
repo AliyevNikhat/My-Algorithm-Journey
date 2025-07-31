@@ -64,7 +64,3 @@ If you find this repository helpful or inspiring, please consider **starring** �
 Let’s **grow together** and become better at solving complex problems. 💪🔥
 
 ---
-
-## 🗒️ License
-
-This repository is open-sourced under the [MIT License](LICENSE).
