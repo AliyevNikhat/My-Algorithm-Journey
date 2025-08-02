@@ -42,19 +42,12 @@ My-Algorithm-Journey/
 ```
 ---
 
-## 📝 Contribution Style
-
-🔹 For each problem:
-- I aim to solve it first with a **naive approach** (basic, straightforward method),
-- Then with an **optimized approach** (faster, more memory-efficient),
-- Sometimes also using **alternative data structures or algorithms**.
-
----
-
 ## ✉️ Contact Me
 
 Have suggestions or found an issue in my code? Feel free to reach out!  
-📧 Email: [aliyevnikhat.info@gmail.com](mailto:aliyevnikhat.info@gmail.com)
+Email: aliyevnikhat.info@gmail.com<br>
+GitHub: [AliyevNikhat](https://github.com/AliyevNikhat)<br>
+Linkedln: [AliyevNikhat](https://www.linkedin.com/in/aliyevnikhat/)
 
 ---
 
